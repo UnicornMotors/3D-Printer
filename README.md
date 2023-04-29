@@ -20,3 +20,6 @@ https://3dmingdaofficial.com/
 
 # Evoked:
 - $149 Heated Bed https://www.sunlu.com/products/terminator-3-fast-printing-fdm-3d-printer-up-to-250mm-s-32bit?variant=40058198065238
+
+# type: Belt
+- https://www.sainsmart.com/products/open-box-sainsmart-infi-20-belt-3d-printer?variant=39845047730255
